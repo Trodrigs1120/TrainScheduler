@@ -1,0 +1,10 @@
+body {
+	background-image: url("images/Munich.jpg");
+	background-size:cover;
+}
+.jumbotron {
+	color: black;
+	/*text-shadow: -3px 0 grey, 0 3px black, 3px 0 black, 0 -3px black; */
+	background-image: url("images/FlagBanner.png");
+	background-size:cover;
+}
